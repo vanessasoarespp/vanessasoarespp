@@ -12,5 +12,5 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 - 📖 I’m currently learning Cypress and Javascript
 - 😄 Pronouns: she/her
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vanessasoarespp&hide=["prs","issues"])
+![Github stats](https://github-readme-stats.vercel.app/api?username=vanessasoarespp&hide=prs,issues&count_private=true)
 
